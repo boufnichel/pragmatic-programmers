@@ -8,3 +8,9 @@
 $brand-color: #c45b5b;
 $accent-color: #c45b5b;
 $link-color: $brand-color;
+
+// Header: hide text label next to the logo so only the logo is visible
+.masthead__inner-wrap .site-title,
+.masthead__inner-wrap .site-subtitle {
+  display: none;
+}

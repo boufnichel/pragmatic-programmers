@@ -9,7 +9,7 @@ header:
     - label: "Book a consultation"
       url: mailto:mohamed.boufnichel@prag-prog.com
     - label: "View services"
-      url: /about/
+      url: /pragmatic-programmers/about/
 feature_row:
   - title: "Mobile Experiences"
     excerpt: "Native iOS, Android, and cross-platform apps with robust CI/CD and monitoring."
@@ -40,6 +40,6 @@ We are a focused engineering partner delivering secure, compliant, and resilient
 **Address:** 12 Bis Rue Liban n°3, 10000 Ocean, Rabat, Morocco
 
 ## Legal
-- [Privacy Policy](/privacy/)
-- [Terms of Use](/terms/)
-- [About Pragmatic Programmers SARL-AU](/about/)
+- [Privacy Policy](/pragmatic-programmers/privacy/)
+- [Terms of Use](/pragmatic-programmers/terms/)
+- [About Pragmatic Programmers SARL-AU](/pragmatic-programmers/about/)
