@@ -1,0 +1,10 @@
+---
+---
+
+// Minimal Mistakes default import
+@import "minimal-mistakes";
+
+// Brand overrides to better match Pragmatic Programmers logo color
+$brand-color: #c45b5b;
+$accent-color: #c45b5b;
+$link-color: $brand-color;
