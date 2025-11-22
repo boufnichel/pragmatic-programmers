@@ -1,0 +1,51 @@
+title: Pragmatic Programmers SARL-AU
+description: Official website of Pragmatic Programmers SARL-AU.
+email: mohamed.boufnichel@prag-prog.com
+address: 12 Bis Rue Liban n°3, 10000 Ocean, Rabat, Morocco
+url: https://<GITHUB_USERNAME>.github.io
+baseurl: /pragmatic-programmers
+timezone: Africa/Casablanca
+theme: minimal-mistakes-jekyll
+markdown: kramdown
+permalink: /:categories/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+paginate: 5
+exclude:
+  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "main"
+author:
+  name: Pragmatic Programmers SARL-AU
+  email: mohamed.boufnichel@prag-prog.com
+  avatar: /assets/images/logo.png
+  location: Rabat, Morocco
+logo: /assets/images/logo.png
+footer:
+  links:
+    - label: Email
+      url: mailto:mohamed.boufnichel@prag-prog.com
+    - label: Privacy
+      url: /privacy
+    - label: Terms
+      url: /terms
+navigation:
+  main:
+    - title: Home
+      url: /
+    - title: About
+      url: /about
+    - title: Privacy
+      url: /privacy
+    - title: Terms
+      url: /terms
