@@ -39,16 +39,16 @@ footer:
     - label: Email
       url: mailto:mohamed.boufnichel@prag-prog.com
     - label: Privacy
-      url: /pragmatic-programmers/privacy
+      url: /privacy/
     - label: Terms
-      url: /pragmatic-programmers/terms
+      url: /terms/
 navigation:
   main:
     - title: Home
       url: /
     - title: About
-      url: /pragmatic-programmers/about
+      url: /about/
     - title: Privacy
-      url: /pragmatic-programmers/privacy
+      url: /privacy/
     - title: Terms
-      url: /pragmatic-programmers/terms
+      url: /terms/

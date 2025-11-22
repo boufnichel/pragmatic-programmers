@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Privacy Policy"
-permalink: /privacy
+permalink: /privacy/
 classes: wide
 ---
 
