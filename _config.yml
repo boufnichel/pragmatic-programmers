@@ -5,7 +5,6 @@ address: 12 Bis Rue Liban n°3, 10000 Ocean, Rabat, Morocco
 url: https://boufnichel.github.io
 baseurl: /pragmatic-programmers
 timezone: Africa/Casablanca
-# theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 markdown: kramdown
 permalink: /:categories/:title/
@@ -29,7 +28,6 @@ defaults:
       sidebar:
         nav: "main"
 author:
-  name: Pragmatic Programmers SARL-AU
   email: mohamed.boufnichel@prag-prog.com
   avatar: /assets/images/logo.png
   location: Rabat, Morocco
