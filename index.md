@@ -40,6 +40,6 @@ We are a focused engineering partner delivering secure, compliant, and resilient
 **Address:** 12 Bis Rue Liban n°3, 10000 Ocean, Rabat, Morocco
 
 ## Legal
-- [Privacy Policy](/pragmatic-programmers/privacy/)
-- [Terms of Use](/pragmatic-programmers/terms/)
-- [About Pragmatic Programmers SARL-AU](/pragmatic-programmers/about/)
+- [Privacy Policy](/pragmatic-programmers/privacy)
+- [Terms of Use](/pragmatic-programmers/terms)
+- [About Pragmatic Programmers SARL-AU](/pragmatic-programmers/about)
