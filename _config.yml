@@ -5,7 +5,8 @@ address: 12 Bis Rue Liban n°3, 10000 Ocean, Rabat, Morocco
 url: https://<GITHUB_USERNAME>.github.io
 baseurl: /pragmatic-programmers
 timezone: Africa/Casablanca
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 markdown: kramdown
 permalink: /:categories/:title/
 plugins:
@@ -13,6 +14,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
 paginate: 5
 exclude:
   - Gemfile.lock
