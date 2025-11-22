@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About Pragmatic Programmers SARL-AU"
+title: "About Pragmatic Programmers"
 permalink: /about
 classes: wide
 ---

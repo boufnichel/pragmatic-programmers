@@ -7,7 +7,7 @@ classes: wide
 
 Last updated: {{ "now" | date: "%B %d, %Y" }}
 
-Pragmatic Programmers SARL-AU respects your privacy and designs every product to collect only the information required to deliver requested features and comply with applicable laws.
+Pragmatic Programmers respects your privacy and designs every product to collect only the information required to deliver requested features and comply with applicable laws.
 
 ## Data Collection
 - We do not collect unnecessary personal data.
@@ -28,6 +28,6 @@ Users may request access, correction, or deletion of their data by emailing [moh
 
 ## Contact
 For privacy questions or regulatory inquiries, contact:  
-**Pragmatic Programmers SARL-AU**  
+**Pragmatic Programmers**  
 12 Bis Rue Liban n°3, 10000 Ocean, Rabat, Morocco  
 [mohamed.boufnichel@prag-prog.com](mailto:mohamed.boufnichel@prag-prog.com)

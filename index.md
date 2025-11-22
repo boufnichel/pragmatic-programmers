@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Pragmatic Programmers SARL-AU"
+title: "Pragmatic Programmers"
 permalink: /
 header:
   overlay_color: "#111111"
@@ -9,7 +9,7 @@ header:
     - label: "Book a consultation"
       url: mailto:mohamed.boufnichel@prag-prog.com
     - label: "View services"
-      url: /pragmatic-programmers/about/
+      url: /about/
 feature_row:
   - title: "Mobile Experiences"
     excerpt: "Native iOS, Android, and cross-platform apps with robust CI/CD and monitoring."
@@ -18,7 +18,7 @@ feature_row:
   - title: "Cloud & Backend Engineering"
     excerpt: "Cloud-native architectures, APIs, and integrations for production systems."
 intro:
-  - excerpt: "Pragmatic Programmers SARL-AU is a software development company based in Rabat, Morocco, specializing in mobile apps, digital products, AI-powered utilities, backend engineering, and cloud-native architectures."
+  - excerpt: "Pragmatic Programmers is a software development company based in Rabat, Morocco, specializing in mobile apps, digital products, AI-powered utilities, backend engineering, and cloud-native architectures."
 ---
 
 {% include feature_row id="intro" type="center" %}
