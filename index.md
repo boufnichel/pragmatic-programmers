@@ -9,7 +9,7 @@ header:
     - label: "Book a consultation"
       url: mailto:mohamed.boufnichel@prag-prog.com
     - label: "View services"
-      url: /pragmatic-programmers/about
+      url: /about
 feature_row:
   - title: "Mobile Experiences"
     excerpt: "Native iOS, Android, and cross-platform apps with robust CI/CD and monitoring."
